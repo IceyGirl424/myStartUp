@@ -1,4 +1,6 @@
 # Draft of my business AI startup
 
 Introduction
-- Hello there!
+- Hello there! I'm a data science student at San Jose State University, working on founding my company to serve the community.
+  
+- Current phase of the startup: Ideation
