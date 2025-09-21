@@ -1,4 +1,5 @@
-# Draft of my business AI startup
+# My Startup Company Journey
+Business website: https://www.mindmappr.io/
 
 Introduction
 - Hello there! I'm a data science student at San Jose State University, working on founding my company to serve the community.
