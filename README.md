@@ -7,6 +7,8 @@ Introduction
 - Current phase of the startup: Ideation
 
 
+
+...
 Social Links
 
 Instagram - https://www.instagram.com/mindmappr
