@@ -18,3 +18,6 @@ Linkedin - https://www.linkedin.com/company/mindmappr/about/
 ### System log of work done:
 9/25/2025
 - Worked on creating a basic website and made a company logo
+
+9/30/2025
+- Brainstorm ideas on how to get people to take survey and plan idea validation methods
