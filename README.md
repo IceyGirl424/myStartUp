@@ -21,3 +21,5 @@ Linkedin - https://www.linkedin.com/company/mindmappr/about/
 
 9/30/2025
 - Brainstorm ideas on how to get people to take survey and plan idea validation methods
+- How to make money on the side to fund beginning of business (on-campus part time jobs/internships)
+- Jot down local founder pitch competitions to take part in (compile list on Google Docs)
