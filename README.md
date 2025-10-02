@@ -10,6 +10,8 @@ Business website: https://www.mindmappr.io/
 
 > Social Links
 
+Youtube - https://www.youtube.com/@MindMappr
+
 Instagram - https://www.instagram.com/mindmappr
 
 Linkedin - https://www.linkedin.com/company/mindmappr/about/
