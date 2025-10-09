@@ -25,3 +25,6 @@ Linkedin - https://www.linkedin.com/company/mindmappr/about/
 - Brainstorm ideas on how to get people to take survey and plan idea validation methods
 - How to make money on the side to fund beginning of business (on-campus part time jobs/internships)
 - Jot down local founder pitch competitions to take part in (compile list on Google Docs)
+
+10/09/2025
+- Started looking at ways to accquire at least one other co-founder and prepare a pitch for the company to talk about it during networking events.
