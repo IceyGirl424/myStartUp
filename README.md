@@ -4,17 +4,18 @@ Business website: https://www.moneyhubb.com/
 > Introduction
 - Hello there! I'm a data science student at San Jose State University, working on founding my company to serve the community.
   
-- Current phase of the startup: Ideation
+- Current phase of the startup: Ideation -> MVP -> Beta Users & A/B Testing
 
 
 
 > Social Links
+Linkedin - https://www.linkedin.com/company/moneyhubb/about/
 
-Youtube - https://www.youtube.com/@MindMappr
+Instagram - https://www.instagram.com/moneyhubb_ai
 
-Instagram - https://www.instagram.com/mindmappr
+TikTok - https://www.tiktok.com/@moneyhubb.ai
 
-Linkedin - https://www.linkedin.com/company/mindmappr/about/
+Twitter/X - https://x.com/MoneyHubb_AI
 
 
 ### System log of work done:
