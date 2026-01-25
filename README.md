@@ -1,5 +1,5 @@
 # My Startup Company Journey
-Business website: https://www.mindmappr.io/
+Business website: https://www.moneyhubb.com/
 
 > Introduction
 - Hello there! I'm a data science student at San Jose State University, working on founding my company to serve the community.
